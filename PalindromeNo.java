@@ -22,8 +22,7 @@ class demo {
         }
         else{
         System.out.println("It is Not a Palindrone Number");
-    
         }
-         System.out.println("Swaraj");
+    
     }
 }
